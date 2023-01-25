@@ -8,6 +8,6 @@ http://software.hongik.ac.kr/a_team/a_team4/dbproject/code/index.php
 
 기본적인 틀은 문화센터 홈페이지를 구현하고, 테이블을 생성하여 연결하였다.
 
-html,css,php를 활용하였다.
+css,php를 활용하였다.
 
 안드로이드로 구현 가능하다. << 공부 필요
