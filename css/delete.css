@@ -1,0 +1,39 @@
+.delete{
+  position:relative;
+  margin: 150 auto;
+  width: 700px;
+  height: 550px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content:center;
+  background-color:gray;
+  color:white;
+  border-radius: 20px;
+  
+}
+
+.delete p{
+  font-size:20px;
+}
+
+
+.delete input,
+.delete button {
+  margin: 5px 0;
+  padding: 20px;
+  font-size: 1.2em;
+  border-radius: 4px;
+}
+
+.delete input {
+  margin:auto;
+}
+.delete input[type=submit]{
+  width: 280px;
+  background-color: white;
+  color: black;
+}
+
+.delete input[type=submit]:hover{background-color: darkorange};
+
